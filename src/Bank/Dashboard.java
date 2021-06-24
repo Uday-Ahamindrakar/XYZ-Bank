@@ -836,6 +836,7 @@ public class Dashboard extends JFrame {
 		contentPane.add(layeredPane);
 		
 		fastcash = new JPanel();
+		fastcash.setBackground(new Color(250, 250, 210));
 		layeredPane.add(fastcash, "name_412839714986800");
 		
 		ministate = new JPanel();
